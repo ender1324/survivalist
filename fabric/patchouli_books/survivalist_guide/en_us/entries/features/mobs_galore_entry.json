@@ -1,0 +1,38 @@
+{
+    "name": "Mobs Galore",
+    "icon": "livingthings:shark_tooth",
+    "category": "patchouli:features_category",
+
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "There are endless amount of animals, birds and fish added to the modpack thanks to the mod. You will find new animals in every biome, from the desert to the tundra. You will notice the sparrows flying around in the forest, the sharks swimming in the ocean and the penguins waddling in the snow. Theese the world feel more alive."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Mods Included",
+            "recipe": "livingthings:lexicon",
+            "text": "- $(l:https://modrinth.com/mod/living-things)Living Things$() is a mod that adds a lot of new animals to the game. The animals are not just for show, they have their own unique behaviors and drops."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "- $(l:https://modrinth.com/mod/fowlplay)Fowl Play$() adds a lot of new birds to the game. All of them have their own animations and ambient sounds. You can find them in every almost every biome with trees.$(br)- $(l:https://modrinth.com/mod/fish-of-thieves)Fish of Thieves$() adds a lot of new fish to the game. You can find them in the ocean and in the rivers. Some fish are classified as trophies and catching them will enable you to put them in plaques.."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "clutter:kiwi_bird",
+            "scale": 1.5,
+            "offset": -0.2,
+            "text": "- $(l:https://modrinth.com/mod/clutter)Clutter$() adds some miscellaneous mobs to the game like cappybaras, jellyfish, kiwis and more. Clutter also includes some new food items and ores like silver."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "- $(l:https://modrinth.com/mod/untitled-duck-mod)Untitled Duck Mod$() adds ducks and geese to the game. They can be found in rivers and lakes. Geese are more aggressive than ducks and will attack you if you get in their way. Meanwhile ducks will just swim around and quack. All mobs have their own unique behaviours and routine."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "untitledduckmod:duck",
+            "text": "Duck :]"
+        }
+    ]
+}

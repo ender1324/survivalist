@@ -1,0 +1,28 @@
+{
+    "name": "Huge Guns",
+    "icon": "pointblank:deserteagle",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The amazing $(l:https://modrinth.com/mod/vics-point-blank)Point Blank$() mod included in the modpack let's you craft and use multiple real life firearms. The guns fit into the game balance as a late mid-game item, so you will have to work a bit to get them."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "pointblank:printer",
+            "text": "You can craft guns by getting the weapon printer and using it. The recipe is shown above."
+        },
+        {
+            "type": "patchouli:entity",
+            "title": "Arms Dealer",
+            "entity": "minecraft:villager{VillagerData:{profession:\"pointblank:arms_dealer\",level:2,type:taiga}}",
+            "text": "Alternatively you can search for a big village that has the arms dealer villager with the building inside and purchase firearms for a good price from him."
+        },
+        {
+            "type":"patchouli:spotlight",
+            "title": "Craftable Guns",
+            "item": "pointblank:deserteagle,pointblank:ak47,pointblank:mp5,pointblank:m4a1,pointblank:smaw,pointblank:citoricxs",
+            "text": "Example of some of the guns you can craft and use in the modpack."
+        }
+    ]
+}

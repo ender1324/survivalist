@@ -1,0 +1,34 @@
+{
+    "name": "Collecting Wood",
+    "icon": "minecraft:oak_log",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Collecting Wood",
+            "item": {
+                "item": "earlystage:rock"
+            },
+            "text": "Begin by breaking leaves for sticks and searching for rocks and flint shards on the ground. These can be used to craft a flint axe which is the first tool you will need to gather wood.$(br)$(imp)Flint tools are crafted with the crafting rock!$()",
+            "link_recipe": true
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "earlystage:crafting_rock",
+            "recipe2": "earlystage:flint_axe"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "tag:minecraft:logs",
+            "text": "Once you have a flint axe, find any of the logs above and break the lowest point of the tree to gather wood. Be careful as the tree will fall down and can hurt you if you are in the way. After you aquire wood, you can craft a crafting table and a wooden pickaxe."
+        },
+        {
+            "type": "patchouli:relations",
+            "text": "Keep going with the tutorial by checking out the next entry, or try figuring it out on your own!",
+            "entries": [
+                "patchouli:learning_tools_entry"
+            ]
+        }
+    ]
+}

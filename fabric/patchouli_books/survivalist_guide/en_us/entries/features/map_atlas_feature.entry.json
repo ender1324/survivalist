@@ -1,0 +1,16 @@
+{
+    "name": "The Map Atlas",
+    "icon": "map_atlases:atlas",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Map Atlas is a tool that allows you to store and dynamically view drawn maps of the world around you. The atlas is practically a minimap with an included world map allowing for a realistic implementation of a map in the game."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "map_atlases:atlas",
+            "text": "Craft yourself an atlas to use the minimap feature. Adds maps to it by placing them both in the crafting grid. Your cordinates and current biome will be shown as a tooltip below the map and if you aquire a calendar you can see the current season."
+        }
+    ]
+}

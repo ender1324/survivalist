@@ -1,0 +1,15 @@
+{
+    "name": "Improved Mobs",
+    "icon": "minecraft:zombie_head",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The monsters of the night have learned quite a lot of new skills! The $(l:https://modrinth.com/mod/improved-mobs)Improved Mobs$() mod included in the modpack makes the existing mobs smarter and it gives them a ton of new abilities. Zombies can now break blocks, doors and can jump to hit you. Creepers can teleport and skeletons can melee you while shooting."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "In addition to that the difficulty of the game will increase over time. The longer you play the more difficult the mobs will become. $(imp)This will keep you on your toes when you realize how little time you have >:).$()"
+        }
+    ]
+}

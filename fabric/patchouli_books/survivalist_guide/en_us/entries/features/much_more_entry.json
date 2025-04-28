@@ -1,0 +1,17 @@
+{
+    "name": "And much more!",
+    "sortnum": 99,
+    "icon": "supplementaries:way_sign_oak",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "I cant include everything in this guidebook so take a look at the highlights and other features category on the mods $(l:https://modrinth.com/modpack/survivalistfabric/)modrinth page$() to see what else is included in the modpack. There are many more mods that add new content, features and mechanics to the game that you can explore and enjoy."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "clutter:capybara",
+            "text": "$(imp)Enjoy the mod!$()"
+        }
+    ]
+}

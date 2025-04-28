@@ -1,0 +1,12 @@
+{
+    "name": "Progressing Mechanic",
+    "icon": "minecraft:diamond_pickaxe",
+    "category": "patchouli:mechanics_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The progression in the mod is a slightly modified version of the vanilla progression. There are no quests or railroading, but the difficulty of the mobs and the game will dynamically increase overtime, forcing the player to progress in *some* way."
+        }
+    ]
+}

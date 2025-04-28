@@ -1,0 +1,21 @@
+{
+    "name": "Hydration Mechanic",
+    "icon": "minecraft:water_bucket",
+    "category": "patchouli:mechanics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The hydration mechanic is a feature that is present in the modpack. The hydration of the player is affected by the biome and season that the player is in. The hydration of the player is displayed as a water droplet icon above the player's experience level. The water droplet icon indicates that the player is hydrated, and the empty water droplet icon indicates that the player is dehydrated. If the player's hydration is too low, the player will start taking damage."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you happen to spawn in an extreme temperature biome or season, you should escape to a more moderate biome as fast as possible. If you are in a hot biome, you should always be near a water source to keep yourself hydrated. If you are in a cold biome, you should always be near a food source to keep yourself fed."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Hydration Sources",
+            "item": "tag:toughasnails:drinks",
+            "text": "Craft a canteen or a water bottle to store water and drink from it by holding right click. Foods with high water content like melons and berries can also help you. Unclean water will dehydrate you faster and can cause parasites which will slowly kill you."
+        }
+    ]
+}

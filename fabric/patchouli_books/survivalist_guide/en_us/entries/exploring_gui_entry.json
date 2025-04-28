@@ -1,0 +1,50 @@
+{
+    "name": "Understand the Basics",
+    "icon": "minecraft:pufferfish",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Start by looking around and analyzing the biome you're in and determining the current season. If you are in a very cold or hot biome keep an eye on the body temperature indicator that is right above your xp level. It will show a snowflake or fire if you are too hot or cold and you will start taking damage."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Heating Items",
+            "item": "minecraft:magma_block,minecraft:lantern,minecraft:campfire,minecraft:lava_bucket,biomesoplenty:brimstone_fumarole,biomesoplenty:burning_blossom,toughasnails:wool_helmet,toughasnails:wool_chestplate,toughasnails:wool_leggings,toughasnails:wool_boots,toughasnails:charc_os",
+            "text": "Use these items to heat yourself up in winter time or in cold biomes. The lanterns are a good starting point for keeping warm. Wool clothes are a good way to keep warm while on the move.",
+            "link_recipe": true
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Remember to drink water and eat food to keep your hunger and thirst up. If you are in a hot biome you will need to drink more water to stay hydrated and if you are in a cold biome you will need to eat more food to not starve.$(l)You can drink water by crouching and right clicking on a water source.$()"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Hydration Sources",
+            "item": "tag:toughasnails:drinks",
+            "text": "Craft a canteen or a water bottle to store water and drink from it by holding right click. Foods with high water content like melons and berries can also help you. Unclean water will dehydrate you faster and can cause parasites which will slowly kill you."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you're going to stack up on food, remember that $(imp)food can rot now.$()If you are not careful storing your food inside safe spaces, it will expire and become rotten making it inedible (unless you want to get ill). To prevent food from spoilage, you need specialized storage that can be seen on the right."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Anti-Spoilage items",
+            "item": "minecraft:shulker_box,minecraft:chest,minecraft:trapped_chest,minecraft:barrel,minecraft:furnace,minecraft:smoker,pfm:oak_kitchen_counter_oven,pfm:iron_toaster,farmersdelight:stove,pfm:iron_fridge",
+            "text": "Shulker Box: 0% Spoilage$(br)Chest: 70% Spoilage$(br)Barrel: 60% Spoilage$(br)Fridge: 30% Spoilage$(br)All Heated Ovens/Smokers/Furnaces: 10% Spoilage"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "And explore! A very important part of the mod is exploring the world for the different buildings, dungeons and structures that can be found. These can contain valuable loot and resources that can help you in your journey and survival.$(br)In Survivalist there are no quests or railroading, you are free to do whatever you want in whatever order you want. The only goal is to survive and thrive in the world.$(br)Good luck and have fun!"
+        },
+        {
+            "type": "patchouli:relations",
+            "text": "Keep going with the tutorial by checking out the next entry, or try figuring it out on your own!",
+            "entries": [
+                "patchouli:collecting_wood_entry"
+            ]
+        }
+    ]
+}

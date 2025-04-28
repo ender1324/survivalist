@@ -1,0 +1,16 @@
+{
+    "name": "More Weapons",
+    "icon": "additional-armoury:boomerang",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The modpack adds new weapons to the game to enhance your combat experience. These new weapons and tools can be crafted using common materials found in the world and can be used to defeat enemies in many different ways. Try crafting some of these new weapons and tools to see how they can help you in combat."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "magistuarmoury:messer_sword",
+            "recipe2": "magistuarmoury:barbedclub"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "More Transportation",
+    "icon": "immersive_aircraft:biplane",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can drive a car, fly a plane or just pull a medival cart with your items. The options are endless! The modpack includes a variety of transportation options to help you get around the world faster and more efficiently. Try crafting some of these new vehicles and see how they can help you in your adventures."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "immersive_aircraft:biplane",
+            "text": "The $(l:https://modrinth.com/mod/immersive-aircraft)Immersive Aircraft$() mod adds a variety of planes to the game that you can craft and fly. The recipe for the biplane is shown above. The biplane can be updated and runs on any burnable fuel which makes it a perfect early-game transport option."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "automobility:automobile_assembler",
+            "text": "Your next option is the $(l:https://modrinth.com/mod/automobility)Automobility$() mod that adds automobiles to the game. You can craft a car assembler to craft your own car. After being crafted a car requires no fuel but is not nearly as flexible as a plane."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "niftycarts:supply_cart",
+            "text": "Last transport option is the $(l:https://modrinth.com/mod/niftycarts)Niftycarts$() mod. It's extremely useful for transporting items around your base or to a different location. The supply cart has 2 chests worth of inventory space and can be pulled relatively quickly by an animal."
+        }
+    ]
+}

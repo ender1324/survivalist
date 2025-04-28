@@ -1,0 +1,17 @@
+{
+    "name": "Food Spoiling",
+    "icon": "minecraft:rotten_flesh",
+    "category": "patchouli:mechanics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If you're going to stack up on food, remember that $(imp)food can rot now.$()If you are not careful storing your food inside safe spaces, it will expire and become rotten making it inedible (unless you want to get ill). To prevent food from spoilage, you need specialized storage that can be seen on the right."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Anti-Spoilage items",
+            "item": "minecraft:shulker_box,minecraft:chest,minecraft:trapped_chest,minecraft:barrel,minecraft:furnace,minecraft:smoker,pfm:oak_kitchen_counter_oven,pfm:iron_toaster,farmersdelight:stove,pfm:iron_fridge",
+            "text": "Shulker Box: 0% Spoilage$(br)Chest: 70% Spoilage$(br)Barrel: 60% Spoilage$(br)Fridge: 30% Spoilage$(br)All Heated Ovens/Smokers/Furnaces: 10% Spoilage"
+        }
+    ]
+}

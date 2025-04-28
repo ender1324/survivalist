@@ -1,0 +1,16 @@
+{
+    "name": "Realistic Zoom In",
+    "icon": "minecraft:spyglass",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Realistic Zoom In feature allows you to zoom in on the world around you. This can be useful for spotting things in the distance or just getting a closer look at something. To use the zoom feature, get a spyglass and place it in the spyglass inventory slot, then simply press the zoom key (default is C) and use the mouse wheel to zoom in and out. You can also change the zoom key in the controls menu."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:spyglass",
+            "text": "Craft yourself a spyglass to use the zoom feature. The recipe is shown above."
+        }
+    ]
+}

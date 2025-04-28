@@ -1,0 +1,20 @@
+{
+    "name": "Exploring the Choices",
+    "icon": "additional-armoury:stone_mace",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Stone Age",
+            "item": "tag:c:stones",
+            "text": "After you have gathered wooden planks, you should craft the classic starting tools. But thats not all! In Survivalist, multiple extra tools and weapons can be crafted each with their own unique abilities."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "The Variety",
+            "item": "tag:c:tools/melee_weapon",
+            "text": "Thanks to the many great mods included in the modpack like $(l:https://modrinth.com/mod/additional-armoury)Additional Armoury$() and $(l:https://modrinth.com/mod/epic-knights-shields-armor-and-weapons)Epic Knights Weapons$() you can craft a ton of new weapons that have their pluses and minuses. For example the 2 types of daggers have very fast attack, but low damage. The mace has a slow attack but high damage."
+        }
+    ]
+}

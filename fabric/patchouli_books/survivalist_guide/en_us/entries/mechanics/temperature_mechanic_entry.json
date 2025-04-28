@@ -1,0 +1,28 @@
+{
+    "name": "Internal Temperature",
+    "icon": "minecraft:ice",
+    "category": "patchouli:mechanics_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The internal temperature mechanic is a feature that is present in the modpack. The temperature of the player is affected by the biome and season that the player is in. The internal temperature of the player is displayed as a snowflake or a fire icon above the player's experience level. The snowflake icon indicates that the player is too cold, and the fire icon indicates that the player is too hot. If the player's internal temperature is too cold or too hot, the player will start taking damage."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "If you happen to spawn in an extreme temperature biome or season, you should escape to a more moderate biome as fast as possible. If you are in a cold biome, you should craft/find a campfire or a lantern as fast as possible to keep yourself warm. If you are in a hot biome, you should always be near a water source to cool yourself down."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Heating Items",
+            "item": "minecraft:magma_block,minecraft:lantern,minecraft:campfire,minecraft:lava_bucket,biomesoplenty:brimstone_fumarole,biomesoplenty:burning_blossom,toughasnails:wool_helmet,toughasnails:wool_chestplate,toughasnails:wool_leggings,toughasnails:wool_boots,toughasnails:charc_os",
+            "text": "Use these items to heat yourself up in winter time or in cold biomes. The lanterns are a good starting point for keeping warm. Wool clothes are a good way to keep warm while on the move.",
+            "link_recipe": true
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Cooling Items",
+            "item": "minecraft:water_bucket,minecraft:ice,minecraft:snow_block,minecraft:snowball,minecraft:packed_ice,minecraft:blue_ice,minecraft:potion",
+            "text": "Use these items to cool yourself down in summer time or in hot biomes. The water bucket is a good starting point for cooling down. Ice and snow blocks are good for cooling down your base."
+        }
+    ]
+}

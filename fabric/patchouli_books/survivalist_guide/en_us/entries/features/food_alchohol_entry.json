@@ -1,0 +1,28 @@
+{
+    "name": "Food & Alcohol",
+    "icon": "brewinandchewin:beer",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The $(l:https://modrinth.com/mod/farmers-delight-refabricated)Farmer's Delight Refabricated$() mod adds a lot of new farming and cooking methods to the game. You can grow a variety of new crops and cook them into delicious meals. Use the crafting helper in your inventory to check out all the Farmer's Delight meals you can make using \"@farmers\" in the searchbar."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Crops & Meals",
+            "link_recipe": true,
+            "item": "farmersdelight:cabbage,farmersdelight:onion,farmersdelight:rice,farmersdelight:tomato,farmersdelight:fried_egg,farmersdelight:egg_sandwich,farmersdelight:chicken_sandwich,farmersdelight:bacon_sandwich",
+            "text": "Example of some of the new crops you can grow and foods you can make. Sandwiches are a good and easy way to get a lot of food in one item. I personally recommend the egg sandwich :D."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://modrinth.com/mod/brewin-and-chewin)Brewin' and Chewin'$() adds alcohol and cheese products to the game. You can brew beer, wine and cider and make cheese from milk. The mod also adds a lot of new food items and meals to the game. Use the crafting helper in your inventory to check out all the Brewin' and Chewin' meals you can make using \"@brewin\" in the searchbar."
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Crafting a Beer Keg",
+            "recipe": "brewinandchewin:keg",
+            "recipe2": "brewinandchewin:tankard"
+        }
+    ]
+}

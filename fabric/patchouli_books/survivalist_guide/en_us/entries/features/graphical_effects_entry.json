@@ -1,0 +1,15 @@
+{
+    "name": "Graphical Effects",
+    "icon": "computercraft:pocket_computer_normal",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The $(l:https://modrinth.com/mod/effective)Effective$() mod includes a lot of simple graphical effects that enchance your experience. Raindrops appear in water, leaves fall from trees and there are water splashing effects. $(l:https://modrinth.com/mod/subtle-effects)Subtle Effects$() is another mod that makes use of the many different particle effects in the game to make it look more alive."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://modrinth.com/mod/lambdynamiclights)LambDynamicLights$() is a mod that adds dynamic lighting to the game. It makes it so that torches and other light sources actually emit light and you can see the light source in the world. This makes the game look more realistic. $(l:https://modrinth.com/shader/complementary-unbound)Complementary Unbound$() shaders are pre-included for stunning graphics."
+        }
+    ]
+}

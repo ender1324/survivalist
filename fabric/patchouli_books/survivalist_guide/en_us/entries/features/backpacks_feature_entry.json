@@ -1,0 +1,17 @@
+{
+    "name": "Travelers Backpacks",
+    "icon": "travelersbackpack:standard",
+    "category": "patchouli:features_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Backpacks are a useful way to store items while you are out exploring. They can be updated with the ability to include a crafting table and store fluids. Crafting a backpack is not that hard so get yourself one and start storing items on-the-go!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "title": "Crafting a Backpack",
+            "recipe": "travelersbackpack:standard",
+            "recipe2": "travelersbackpack:iron_tier_upgrade"
+        }
+    ]
+}
