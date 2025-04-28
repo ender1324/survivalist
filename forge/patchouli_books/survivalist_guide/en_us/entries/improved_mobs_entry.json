@@ -1,0 +1,17 @@
+{
+    "name": "Improved Mobs",
+    "icon": "biomesoplenty:spider_egg",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:entity",
+            "entity": "minecraft:zombie{HandItems:[{id:iron_sword},{}],ArmorItems:[{},{id:golden_leggings},{},{id:leather_helmet}]}",
+            "text": "The mobs are not the same as the ones you are used to. They have been buffed to be a major challenge and obstacle.$(br)Changes by $(l:https://www.curseforge.com/minecraft/mc-mods/enhanced-ai)Enhanced AI$()"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You will notice that some mobs have new abilities and behaviors such as:$(br)- Overhaul of the pathfinding and player detection system $(br)- Most mobs can now climb stairs and swim faster$(br)- Some zombies can now break blocks, you are never safe.$(br)- Skeletons shoot extremely accurately and will try to run away from you if you get close$(br)- Creepers can move while exploding$(br)- Spiders will dash towards you$(br)- Melee mobs will attack you way faster$(br)- Zombies can bite you if you attack them without protection$(br)And more!"
+        }
+    ]
+}

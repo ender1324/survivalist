@@ -1,0 +1,29 @@
+{
+    "name": "Progression",
+    "icon": "cataclysm:monstrous_eye",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The progression in Survivalist - Forge is generally entirely optional but strongly encouraged. The dynamic difficulty system will try to match your pace and should stall with you. Nevertheless the vanilla progression has been enhanced and partially reworked.$(br)Apart from the default Minecraft progression, entirely new equipment and boss progression is available!"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Completing the Game",
+            "item": "endrem:black_eye,endrem:cold_eye,endrem:corrupted_eye,endrem:lost_eye,endrem:nether_eye,endrem:old_eye,endrem:magical_eye",
+            "text": "In order to get to the end, you will now need to collect $(l:https://www.curseforge.com/minecraft/mc-mods/endremastered)12 different eyes of ender$(). Each eye is obtained by exploring, finding certain creatures, and completing some dungeons. Each eye can be used to find the end portal but only one of each can be used to activate it.$(br)The dimension itself is $(l:https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island)completely reworked and expanded$(), so good luck exploring the end of the game."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Cataclysm",
+            "item": "cataclysm:mech_eye,cataclysm:flame_eye,cataclysm:void_eye,cataclysm:monstrous_eye,cataclysm:abyss_eye,cataclysm:desert_eye,cataclysm:cursed_eye",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)Cataclysm$() adds many end-game dungeons and bosses to the game. Building up is essential to defeating them due to their special abilities and mechanics. Beating them grants you the path to extremely strong gear and accessories that will make you practically immortal."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "cataclysm:ender_golem",
+            "text": "The ender golem from $(l:https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)Cataclysm$()"
+        }
+    ]
+}

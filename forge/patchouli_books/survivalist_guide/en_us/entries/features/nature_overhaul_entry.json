@@ -1,0 +1,18 @@
+{
+    "name": "Overhauled Nature",
+    "icon": "naturalist:butterfly",
+    "category": "patchouli:features_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The modpack includes multiple biome mods like:$(br)- $(l:https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)Regions Unexplored$()$(br)- $(l:https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)Biomes O' Plenty$()$(br)- $(l:https://www.curseforge.com/minecraft/mc-mods/natures-spirit)Nature's Spirit$()$(br)$(br)Each contribute to the unique environment found in Survivalist. You can find different types of terrain and features in each of them as well as new plants and $(l:https://www.curseforge.com/minecraft/mc-mods/dynamictrees)unique trees$(). Choosing a living biome is important as each biome has different temperatures and weather patterns per season."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "The Wildlife",
+            "item": "naturalist:butterfly,naturalist:caterpillar,naturalist:snail_bucket,naturalist:bass,alexsmobs:maggot,alexsmobs:lobster_bucket,alexsmobs:blobfish",
+            "text": "Mods like $(l:https://www.curseforge.com/minecraft/mc-mods/naturalist)Naturalist$() and $(l:https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)Alex's Mobs$() add a variety of new dynamic wildlife to the game. You can find different types of animals in each biome that will $(l:https://www.curseforge.com/minecraft/mc-mods/alexsmobsinteraction)interact$() with each other. You can kill them for food and resources or just observe their behavior for fun."
+        }
+    ]
+}

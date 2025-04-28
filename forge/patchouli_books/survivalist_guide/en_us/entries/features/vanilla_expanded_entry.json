@@ -1,0 +1,18 @@
+{
+    "name": "Vanilla Expanded",
+    "icon": "alexscaves:vanilla_ice_cream_scoop",
+    "category": "patchouli:features_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "A few expansions to vanilla features are included. These are most quality of life changes that make the game more enjoyable. From small things such as the $(l:https://www.curseforge.com/minecraft/mc-mods/spyglass-improvements)spyglass zoom$() being always usable to named pets dropping $(l:https://www.curseforge.com/minecraft/mc-mods/broken-nametags)broken name tags$() as a memorial. More $(l:https://www.curseforge.com/minecraft/mc-mods/more-mob-variants)mob variants$() and $(l:https://www.curseforge.com/minecraft/mc-mods/guard-villagers)guard villagers$() have been added plus $(l:https://www.curseforge.com/minecraft/mc-mods/amendments)items amended$()."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Supplementaries",
+            "item": "supplementaries:bomb,supplementaries:altimeter,supplementaries:cannon,supplementaries:bamboo_spikes,supplementaries:safe,supplementaries:globe",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/supplementaries)Supplementaries$() adds a lot of new useful vanilla+ items. Such items are shown in the spotlight. The bomb is a great throwable weapon that explodes on impact without destroying blocks.$(br)The altimeter is the tool to measure your depth as the coordinates from the F3 menu have been removed.$(br)The bamboo spikes are great for traps especially against the new buffed mobs.$(br)The globe is a great decoration item that can be used to show off your world map."
+        }
+    ]
+}

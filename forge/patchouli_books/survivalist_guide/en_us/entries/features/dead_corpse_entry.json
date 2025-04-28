@@ -1,0 +1,17 @@
+{
+    "name": "Dead Corpse",
+    "icon": "alexsmobs:blobfish",
+    "category": "patchouli:features_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "When you die, your $(l:https://www.curseforge.com/minecraft/mc-mods/corpse)corpse$() will be left behind with all your $(l:https://www.curseforge.com/minecraft/mc-mods/corpse-x-curios-api-compat)items$(). You can loot it by right clicking it. Corpses will turn into skeletons after awhile and eventually decay."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "corpse:corpse",
+            "text": "Dead :<"
+        }
+    ]
+}

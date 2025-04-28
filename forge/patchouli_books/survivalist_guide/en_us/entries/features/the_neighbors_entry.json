@@ -1,0 +1,16 @@
+{
+    "name": "The Neighbors",
+    "icon": "supplementaries:statue",
+    "category": "patchouli:features_category",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Contrary to popular belief, you are not alone in this world. There are many other civilizations out there, some friendly, some hostile.$(br)$(br)The $(l:https://www.curseforge.com/minecraft/mc-mods/additional-structures)Additional Structures$(), $(l:https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns)Dungeons and Taverns$() and $(l:https://www.curseforge.com/minecraft/mc-mods/underground-bunkers)Underground Bunker$() mods add a ton of new structures to the world. You can find new villages, pillager built dungeons and even bunkers to explore and loot."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/yungs-api)YUNG's collection$() improves all vanilla structures like mineshafts, desert temples, jungle temples and more. $(l:https://www.curseforge.com/minecraft/mc-mods/towns-and-towers)Towns and Towers$() and $(l:https://www.curseforge.com/minecraft/mc-mods/tidal-towns)Tidal Towns$() mod add some fresh new villages as settlements to the world.$(br)$(br)Pillagers have $(l:https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage)expanded their territory$() considerably from their original outposts. You can find a lot of their outposts, camps and ships around the world. "
+        }
+    ]
+}

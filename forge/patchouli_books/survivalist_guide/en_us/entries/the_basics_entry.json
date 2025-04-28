@@ -1,0 +1,39 @@
+{
+    "name": "The Basics",
+    "icon": "hardcore_torches:fire_starter",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You are now in the world of Survivalist. This guide will help you get started with the basics of surviving. You will learn how to gather resources, craft tools, and build shelter to survive the harsh environment and mobs waiting for you.$(br)$(imp)You're on a timer until the moon rises!$()"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Flint Hatchet",
+            "item": "tag:minecraft:small_flowers",
+            "text": "Quickly, look around and assess your situation. If you are in a extreme biome, get out as fast as possible otherwise the temperature will get you.$(br)You need 1 flint, 1 stick and 1 flower to make a flint hatchet. This is your first tool that will allow you to gather wood.$(br)$(br)You can find flint by breaking gravel, sticks by breaking leaves, and flowers by looking around."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:oak_planks",
+            "text": "After crafting planks, you can continue as normal and make a crafting table. Craft yourself a wooden pickaxe and craft stone tools. Find coal or any other source of lighting as $(imp)you will need it to survive the night.$()"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "hardcore_torches:fire_starter",
+            "recipe2": "lititup:sparkling_flint"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You will likely need to dig yourself into the ground or build a shelter to survive the night. Both require a light source to keep your sanity and the mobs away. If you do not have any iron, either find string and make a fire starter with the string and sticks or find switchgrass and make a sparkling flint.$(br)$(br)$(imp)No vanilla light sources are pre-lit, you have to light them yourself so plan accordingly.$()"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Worst Case Scenario",
+            "item": "cold_sweat:boiler,cold_sweat:hearth,minecraft:campfire,minecraft:furnace,immersive_weathering:fire",
+            "link_recipe": true,
+            "text": "$(imp)It is extremely unlikely you will survive the first night without hiding underground or building a shelter.$()$(br)$(br)In the scenario you are freezing, you can use a campfire, furnace, or boiler to keep warm. You can also use a hearth, but it's a late-game item. If you have no other option, you can use a fire pit to keep warm but it will go out after awhile if it is not on netherrack. $(br)$(br)$(imp)Good luck!$()"
+        }
+    ]
+}

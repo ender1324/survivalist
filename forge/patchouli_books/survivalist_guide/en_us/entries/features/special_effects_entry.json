@@ -1,0 +1,16 @@
+{
+    "name": "Special Effects",
+    "icon": "artifacts:helium_flamingo",
+    "category": "patchouli:features_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/particular-reforged)Particular$() adds a lot of new visual effects like water slashes when you throw things in the water, waterfall splashes, cave dust and falling leaves from trees.$(br)$(br)$(l:https://www.curseforge.com/minecraft/mc-mods/subtle-effects)Subtle Effects$() adds little quality of life improvements to the modpack such as villager and player sleeping sounds, new smoke textures, dust clouds at high speeds and particle culling."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/immersive-ui)Immersive UI$() reworks the inventory effects by highlighting the items you're holding, adding particles to rare items and some visual wiggling.$(br)$(br)There are other QoL visual mods such as $(l:https://www.curseforge.com/minecraft/mc-mods/appleskin)Apple Skin$() and others.$(br)$(br)$(l:https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)Camera Overhaul$() adds first person camera effects such as camera shake on explosions and camera sway on looking around and swimming."
+        }
+    ]
+}

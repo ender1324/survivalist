@@ -1,0 +1,19 @@
+{
+    "name": "Last Remarks",
+    "icon": "naturalist:teddy_bear",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Last Remarks",
+            "item": "artifacts:whoopee_cushion,create:cardboard_sword,alexsmobs:sopa_de_macaco,dragnvehicles:car",
+            "text": "This is the end of the guide! I hope you learned enough about the pack to not die immediately. There are many more mods and features that I didn't cover in this section so feel free to explore the guide book to find out about the other more niche features you might like!$(br)$(br)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "naturalist:bear",
+            "text": "$(imp)If you have any questions, feel free to ask in the discord server or on the modpack page. Good luck and have fun!$()"
+        }
+    ]
+}

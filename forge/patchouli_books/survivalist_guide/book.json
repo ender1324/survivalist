@@ -1,0 +1,13 @@
+{
+    "name": "Survivalist - Forge",
+    "landing_text": "Welcome to the Survivalist - Forge: Guidebook. This book will help you get started while explaining the different mechanics and features that you will encounter. Begin by exploring the entries to the right of this page.",
+    "version": 1,
+    "model": "patchouli:book_red",
+    "book_texture": "patchouli:textures/gui/book_red.png",
+    "creative_tab": "minecraft:tools_and_utilities",
+    "pause_game": true,
+    "use_resource_pack": false,
+    "macros": {
+        "$(imp)": "$(#db0000)"
+    }
+}

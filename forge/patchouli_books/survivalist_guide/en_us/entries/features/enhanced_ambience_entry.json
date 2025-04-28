@@ -1,0 +1,16 @@
+{
+    "name": "Enhanced Ambience",
+    "icon": "dynamictrees:cherry_seed",
+    "category": "patchouli:features_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Thanks to the $(l:https://www.curseforge.com/minecraft/mc-mods/ambientsounds)Ambient Sounds$() mod, you can hear the sounds of nature around you. The mod adds a lot of new ambient sounds to the game, such as birds chirping, wind blowing, and some insect sounds.$(br)$(br)$(l:https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)Sound Physics Remastered$() adds notable physics to sound like muffling when you are inside a building or an underground area, echo through long corridors and performance improvements."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/presence-footsteps-forge)Presence Footsteps$() adds sounds to your footsteps where minecraft did not. The mod integrates with the sound physics and each foot has seperate sounds for the block they are standing on.$(br)$(br)$(l:https://www.curseforge.com/minecraft/mc-mods/this-rocks-forge)This Rocks$() adds rocks and sticks that you can pick up by right clicking. You'll also find starfish and shells on the beach. Using the rocks and sticks you can craft early-game items."
+        }
+    ]
+}

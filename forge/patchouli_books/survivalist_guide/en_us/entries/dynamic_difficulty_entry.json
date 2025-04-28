@@ -1,0 +1,18 @@
+{
+    "name": "Dynamic Difficulty",
+    "icon": "l2hostility:curse_of_lust",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The modpack has a dynamic difficulty system that will adjust the difficulty of the game based on your performance. If you die a lot, the player difficulty will decrease, making lower level mobs spawn near you. With every major progression milestone, difficulty will majorly increase and mobs will start spawning with special abilities."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Mob Traits",
+            "item": "l2hostility:tank,l2hostility:speedy,l2hostility:protection,l2hostility:invisible,l2hostility:adaptive,l2hostility:reflect,l2hostility:corrosion,l2hostility:undying",
+            "text": "You can see the different traits that mobs can spawn with when they have high levels. You have a few different ways to deal with the increasing difficulty like using a monster spawner to kill waves of enemies to prevent leveled mobs from spawning in a chunk or using the orb of hostility to reduce player difficulty.$(br)Provided by $(l:https://www.curseforge.com/minecraft/mc-mods/l2hostility)l2 hostility$()$(br)$(imp)Good luck, you're on a timer!$()"
+        }
+    ]
+}

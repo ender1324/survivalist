@@ -1,0 +1,17 @@
+{
+    "name": "The Nether",
+    "icon": "netherexp:shotgun_core",
+    "category": "patchouli:features_category",
+    "sortnum": 7,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The nether has been greatly expanded with new $(l:https://www.curseforge.com/minecraft/mc-mod/biomesoplenty)biomes$(), $(l:https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)mobs$() and $(l:https://www.curseforge.com/minecraft/mc-mods/nethers-delight)delights$(). New structures and dungeons have also been added to the fiery dimesion to give the player even more to explore for. The important nether eye can be found in chests and is used as one of the eyes needed to get to the end.$(br)"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "netherexp:apparition",
+            "text": "$(l:https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)Jadens Nether Expansion$() is one of the main mods responsible for the nether overhaul. Most of the new structures and biomes are from this mod."
+        }
+    ]
+}

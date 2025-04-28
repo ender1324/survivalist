@@ -1,0 +1,30 @@
+{
+    "name": "Advanced Equipment",
+    "icon": "l2archery:flame_bow",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Additional equipment has been added to the modpack to help the progressive difficulty and the buffed mobs. Most of the mid to late game equipment comes from the $(l:https://www.curseforge.com/minecraft/mc-mods/l2-complements)L2 Collection$() and $(l:https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)Cataclysm$(). Some early to mid game equipment can be found from the $(l:https://www.curseforge.com/minecraft/mc-mods/alexs-caves)Alex's Caves$() mod and others."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "L2 Collection",
+            "item": "l2weaponry:iron_claw,l2weaponry:diamond_dagger,l2weaponry:gold_throwing_axe,l2weaponry:netherite_hammer,l2weaponry:totemic_gold_battle_axe,l2weaponry:iron_scythe,l2weaponry:eternium_spear,l2weaponry:gold_javelin,l2weaponry:gold_round_shield,l2weaponry:sculkium_nunchaku",
+            "text": "The $(l:https://modrinth.com/mod/l2weaponry)L2 Weaponry$() mod adds a variety of melee weapons. Each weapon has unique abilities and can be applied to different playstyles. Most weapons from L2 are usually straightforward to obtain and make. I highly recommend using them to help you survive the upcoming challenges."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "L2 Archery",
+            "item": "l2archery:starter_bow,l2archery:iron_bow,l2archery:master_bow,l2archery:magnify_bow,l2archery:ender_aim_bow,l2archery:flame_bow,l2archery:froze_bow,l2archery:void_bow,l2archery:earth_bow,l2archery:sun_bow",
+            "text": "$(l:https://modrinth.com/mod/l2archery)L2 Archery$() is an expansion to the L2 Collection that adds advanced bows and arrows. Every bow can use each of the different arrows making for a LOT of combinations. The starter bow is the easiest to obtain and a great starting point to the mod. The L2 arrows are fairly costly to make (as each requires 4 arrows and 4 iron) but can be extremely powerful."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Cataclysm Equipment",
+            "item": "cataclysm:cursium_chestplate,cataclysm:cursium_leggings,cataclysm:bulwark_of_the_flame,cataclysm:coral_bardiche,cataclysm:void_forge,cataclysm:wither_assault_shoulder_weapon",
+            "text": "Cataclysm equipment can be obtained only by defeating the mod's bosses. Each boss drops part of the resources needed to craft the equipment. Cataclysm equipment generally specializes in the armor sets which have powerful unique abilities per armor piece, making for an extremely powerful set. There are also a few ranged guns and melee weapons with powerful magical abilities."
+        }
+    ]
+}

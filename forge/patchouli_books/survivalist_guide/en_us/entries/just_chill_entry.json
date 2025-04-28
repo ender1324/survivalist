@@ -1,0 +1,20 @@
+{
+    "name": "Chill out",
+    "icon": "brewinandchewin:beer",
+    "category": "patchouli:getting_started_category",
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "title": "Just Chill Out",
+            "item": "brewinandchewin:beer,brewinandchewin:vodka,brewinandchewin:pizza,farmersdelight:hamburger",
+            "text": "But you don't have to grind for good gear all the time!$(br)$(l:https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin)Brewin' and Chewin'$() which is an addon to the $(l:https://www.curseforge.com/minecraft/mc-mods/farmers-delight)Farmers Delight$() mod adds a few new foods and drinks that will help you \"relax\" (in game of course). You can brew different types of alchohol using a keg which in return will grant you buffs (or debuffs depending on what kind of abomination you make).$(br)You can also make a pizza, hamburger and a few other fun foods to use as quick saturation.$(br)$(br)$(imp)You can always celebrate the defeat of the ender dragon with a bottle of whiskey!$()"
+        },
+        {
+            "type": "patchouli:spotlight",
+            "title": "Hamsters",
+            "item": "hamsters:hamster{Variant:0},hamsters:hamster{Variant:1},hamsters:hamster{Variant:2},hamsters:hamster{Variant:3},hamsters:hamster{Variant:4},hamsters:hamster{Variant:5},hamsters:hamster{Variant:6},hamsters:hamster_wheel",
+            "text": "Alternatively, just find a tame a $(l:https://www.curseforge.com/minecraft/mc-mods/hamsters)hamster$()! You can find them in most flat plains-based biomes. Breed or tame them with any type of seeds and they will follow you around. You can shift-right click on them to pick them up (literally, as an inventory item) collect them. You can make a hamster wheel to keep them entertained! There isn't much more to them but there are other interesting animals to find and tame in the modpack."
+        }
+    ]
+}

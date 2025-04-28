@@ -1,0 +1,13 @@
+{
+  "idle": {
+    "condition": "none"
+  },
+  "states": {
+    "invisible": {
+      "graphics_state": "reduced"
+    },
+    "abandoned": {
+      "graphics_state": "reduced"
+    }
+  }
+}
