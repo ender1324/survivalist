@@ -1,11 +1,13 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-enderPearlTrail = true
-snowballTrailDensity = 0.5
+chickenFeathers = true
+parrotFeathers = true
+snowGolemSnowflakes = true
 allayMagicDensity = 0.2
 vexMagicDensity = 0.2
 sheepShearFluff = true
 improvedDragonFireballTrail = true
+dragonsBreathClouds = true
 commandBlockMinecartParticles = "ON"
 endCrystalParticles = true
 minecartSparksDisplayType = "DEFAULT"
@@ -18,15 +20,18 @@ replaceSpellCasterParticles = true
 ironGolemCrackParticles = true
 spectralArrowParticles = true
 wardenDeathSoulParticles = true
-xpBottleParticlesDisplayType = "DEFAULT"
-xpBottleParticlesDensity = 10
-eggSmashSoundVolume = 0.5
 freezingSnowFlakes = true
-
-[attacked]
-chickenFeathers = true
-parrotFeathers = true
-snowGolemSnowflakes = true
+featherTicklingPandas = true
+improvedPandaSneezes = true
+villagerWorkAtWorkstationParticles = true
+improvedBrownMooshroomFeedingEffects = true
+improvedMooshroomShearingEffects = true
+replaceBlazeSmoke = true
+animalFeedingParticles = true
+animalFeedingSoundVolume = 1.0
+underwaterEntityPoofBubbles = true
+improvedWetWolfShakeEffects = true
+improvedVillagerSweatingEffects = true
 
 [sleeping]
 playerSnoreChance = 0.19852941176470587
@@ -46,6 +51,7 @@ adjustNameTagWhenSleeping = true
 drowningBubblesDisplayType = "DEFAULT"
 drowningBubblesDensity = 10
 drowningBubbleAlpha = 1.0
+forceDrowningBubblesToColumn = false
 potionRingsDisplayType = "DEFAULT"
 potionRingsParticleType = "BOTH"
 NPCsHavePotionRings = true
@@ -58,6 +64,7 @@ seasons = "DEFAULT"
 additionalBiomes = [  ]
 
 [humanoids.player]
+enableBreathingEffectsInCreative = true
 stomachGrowlingThreshold = 6
 stomachGrowlingVolume = 1.0
 stomachGrowlingWaitTime = 15
@@ -85,19 +92,24 @@ sparks = true
 sounds = true
 extinguishSteam = true
 
-[itemRarity]
-particlesDisplayType = "NOT_COMMON"
-particleColorType = "NAME_COLOR"
-mixedColorName = true
-useItemBorder = true
-colorOverrides = [  ]
-particleMaxHeight = 0.79901963
-particleMaxSpeed = 0.7985294
-particleDensity = 0.799264705882353
-
 [explosives]
 tntUpdateSmoke = true
 tntFlamesDensity = 1
 tntSparks = true
 creeperSmoke = "UPDATED"
 creeperSparks = true
+
+[splashes]
+splashEffects = true
+splashRipples = true
+splashDroplets = true
+splashBubbles = true
+splashOverlayTint = 0.2
+splashOverlayAlpha = 0.8
+splashVelocityThreshold = 0.35
+entityBlocklist = [  ]
+secondarySplash = true
+secondarySplashRipples = false
+secondarySplashVelocityThreshold = 0.3
+lavaSplashes = true
+lavaSplashRipples = true

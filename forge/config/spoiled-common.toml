@@ -4,26 +4,30 @@
 	#Determines the spoilrate in specific containers [Syntax: tileentity:spoil_rate]
 	#Examples: "minecraft:shulker_box,0" would make shulker boxes not spoil food
 	#"cookingforblockheads:fridge,0.2" would make a cooking for blockheads fridge spoil at 20% of the usual spoilrate
-	containerModifier = ["minecraft:shulker_box,0", "minecraft:chest,0.7", "minecraft:furnace,0.1", "minecraft:trapped_chest,0.7", "minecraft:barrel,0.6", "minecraft:smoker,0.1", "farmersdelight:stove,0.1"]
+	containerModifier = ["minecraft:chest,0.7", "minecraft:trapped_chest,0.7", "minecraft:ender_chest,0.7", "netherexp:brazier_chest,0.7", "minecraft:barrel,0.7", "minecraft:shulker_box,0.7", "minecraft:furnace,0.5", "minecraft:smoker,0.5", "pfm:stove_block_entity,0.5", "pfm:kitchen_counter_oven_block_entity,0.5", "farmersdelight:stove,0.5", "ends_delight:end_stove,0.5", "pfm:fridge_block_entity,0.8", "pfm:freezer_block_entity,0.9", "cold_sweat:icebox,0.7"]
 	#Defines the default total amount of spoiling updates for each food item 
 	#(For example, a defaultSpoilTime of 40 means any default food item will have 40 total updates before it spoils. 
 	#This can be altered when custom food spoiling is set using a datapack) [default: 30]
 	#Range: > 1
-	spoilRate = 40
+	spoilRate = 240
 	#When enabled Spoiled initializes spoiling for all vanilla food [default: true]
 	initializeSpoiling = true
 	#When enabled enables a special recipe to merge spoiling food together [default: false]
-	mergeSpoilingFood = false
+	mergeSpoilingFood = true
 	#When enabled Spoiled makes every edible item spoil into the specified Spoil Item (This overwrites json spoiling completely) [default: false]
 	spoilEverything = true
 	#Defines a list of items that are never allowed to spoil
-	spoilBlacklist = ["minecraft:rotten_flesh", "minecraft:enchanted_golden_apple"]
+	spoilBlacklist = ["minecraft:rotten_flesh", "minecraft:enchanted_golden_apple", "minecraft:golden_apple"]
 	#Defines the total amount of spoiling updates that is used by the default initialized spoiling when 'initializeSpoiling' is enabled 
 	#(If the 'spoilRate' is 10 and the 'defaultSpoilTime' is set to 20 then the food will spoil after 20 * 10 seconds = 200 seconds) [default: 40]
 	#Range: > 1
-	defaultSpoilTime = 60
+	defaultSpoilTime = 10
 	#Defines the item the foods vanilla foods will turn into when spoiled (if empty it will clear the spoiling item) [default: 'minecraft:rotten_flesh']
 	defaultSpoilItem = "minecraft:rotten_flesh"
+	#Determines the spoilrate in specific item containers [Syntax: modid:item_id]
+	#Examples: "minecraft:shulker_box,0" would make shulker boxes not spoil food
+	#
+	itemContainerModifier = ["minecraft:shulker_box,0.7"]
 
 #Compatibility settings
 [Compatibility]

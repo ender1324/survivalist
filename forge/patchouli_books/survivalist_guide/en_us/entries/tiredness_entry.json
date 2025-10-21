@@ -6,7 +6,7 @@
     "pages": [
         {
             "type": "patchouli:text",
-            "text": "You can no longer just sleep to skip the difficulties of the night. You will see your tiredness level in the inventory screen to the right of the character preview. If you are not at least 70% tired, you will not be able to sleep.$(br)$(br)$(imp)If you are above 150% tiredness, you will start having phantom attacks$()"
+            "text": "You can no longer just sleep to skip the difficulties of the night. You will see your tiredness level in the inventory screen to the right of the character preview. If you are not at least 100% tired, you will not be able to sleep.$(br)$(br)$(imp)If you are above 200% tiredness, you will start having phantom attacks$()"
         },
         {
             "type": "patchouli:crafting",

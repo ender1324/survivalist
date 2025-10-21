@@ -26,4 +26,6 @@ glowingRangeHidden = 32
 glowingRangeNear = 16
 #Render undying particles
 showUndyingParticles = true
+#Detector Glass outline hostile mobs only
+glassForLevelMobsOnly = true
 

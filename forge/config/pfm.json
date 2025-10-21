@@ -1,5 +1,5 @@
 {
-  "checkForUpdates": true,
+  "checkForUpdates": false,
   "shaderSolidFix": false,
   "chairsFacePlayer": true,
   "countersOfDifferentMaterialsConnect": false,
@@ -10,5 +10,5 @@
   "mobsSitOnChairs": true,
   "renderImmersivePortalsMirrors": true,
   "spawnImmersivePortalsMirror": true,
-  "disableGeneratingScreen": false
+  "disableGeneratingScreen": true
 }

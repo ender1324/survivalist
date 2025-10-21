@@ -87,6 +87,9 @@
 	#Cooldown for Instant Throwing
 	#Range: 1 ~ 6000
 	instantThrowCooldown = 60
+	#Cooldown for Dagger Instant Throwing
+	#Range: 1 ~ 6000
+	daggerInstantThrowCooldown = 15
 
 ["Twilight Forest Compat"]
 	#Damage bonus to enemies not immune to fire

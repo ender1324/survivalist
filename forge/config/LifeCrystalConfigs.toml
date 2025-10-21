@@ -6,7 +6,7 @@
 [Generation]
 	"Do generation" = true
 	#Chance of a life crystal failing to generate, use to configure rarity
-	"Failure chance" = 0.8
+	"Failure chance" = 0.7
 
 ["Mini Lantern"]
 	#Every 10 ticks, the lamp will attempt the tick chance, then apply a regen effect of the level and duration specified to all players within the radius

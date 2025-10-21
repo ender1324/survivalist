@@ -21,14 +21,14 @@
 [oil_can]
 	#The maximum fuel an oil can holds, in ticks.
 	#Range: > 1
-	maxCanFuel = 576000
+	maxCanFuel = 864000
 	#Do lanterns require an oil can to be fueled?
 	lanternsNeedCan = true
 	#Can torches be fueled with an oil can?
-	torchesUseCan = false
+	torchesUseCan = true
 	#Globally modify all oil can recipes. 0.5 means all items give half as much oil.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	oilRecipeMultiplier = 1.0
+	oilRecipeMultiplier = 1.1
 	#0: Craft oil using can and animal fat
 	#1: Craft oil using can and coal
 	#2: Both enabled
@@ -71,6 +71,13 @@
 	#How many torches are crafted.
 	#Range: > 1
 	torchCraftAmount = 4
+	#0: Right-click torches to pick them up
+	#1: Right-click torches while sneaking to pick them up
+	#2: Torches cannot be picked up by right-clicking
+	#Range: 0 ~ 2
+	takeTorchMode = 1
+	#When a torch burns out it will become unlit, and when you light a torch, it will be fully refueled.
+	relightTorches = false
 
 #Lantern Settings
 [lantern]
@@ -95,6 +102,8 @@
 	startingLanternFuel = 0
 	#Allow the player to pick up lanterns with sneak-clicking.
 	pickUpLanterns = true
+	#When a lantern is lit, it will be fully refueled. Recommended that you disable oil can recipes and set startingLanternFuel if you use this.
+	relightLanterns = false
 
 #Fire Starter Settings
 [fire_starter]
@@ -108,7 +117,7 @@
 	canLightLanterns = false
 	#Percentage chance that the fire starter works
 	#Range: 0.0 ~ 1.0
-	starterSuccessChance = 0.33
+	starterSuccessChance = 0.75
 
 #Campfire Settings
 [campfire]
@@ -116,7 +125,7 @@
 	craftHardcoreCampfire = true
 	#Max fuel that can be added to a campfire
 	#Range: > 0
-	campfireMaxFuel = 24000
+	campfireMaxFuel = 30000
 	#Burn time for campfire fuel items is calculated by this value times its furnace duration
 	#Range: 1.0 ~ 1.7976931348623157E308
 	campfireFuelFactor = 8.0

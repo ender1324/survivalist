@@ -424,13 +424,13 @@
         "opacity": 1.0,
         "animationSpeed": 0
       },
-      "coldestTemperature": 33,
-      "hypotheremiaTemperature": 35,
-      "coldTemperature": 36,
-      "defaultTemperature": 37,
-      "warmTemperature": 38,
-      "hyperthermiaTemperature": 39,
-      "hottestTemperature": 41
+      "coldestTemperature": -100,
+      "hypotheremiaTemperature": -75,
+      "coldTemperature": -50,
+      "defaultTemperature": 0,
+      "warmTemperature": 50,
+      "hyperthermiaTemperature": 75,
+      "hottestTemperature": 100
     }
   }
 }

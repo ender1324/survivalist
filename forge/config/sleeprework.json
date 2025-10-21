@@ -11,14 +11,14 @@
     "color_3": 15430708,
     "color_4": 15412525,
     "do_recolor": true,
-    "show_tutorial": false,
+    "show_tutorial": true,
     "icon_x": 80,
     "icon_y": 10,
     "color_1": 16777215,
     "color_2": 16768256
   },
   "player": {
-    "min_sleep_level": 0.9,
+    "min_sleep_level": 0.80,
     "sleep_timeout": 400,
     "wake_up_effects": [
       {
@@ -28,12 +28,12 @@
         "amplifier": 1
       }
     ],
-    "tiredness_increase_per_minute": 0.050,
+    "tiredness_increase_per_minute": 0.05,
     "max_tiredness": 5.0
   },
   "phantom": {
     "tiredness_phantoms": true,
-    "phantom_spawn_tiredness": 3.0,
+    "phantom_spawn_tiredness": 2.1,
     "spawn_required_sky_darken": 5,
     "disable_vanilla_phantom_spawner": true
   }
