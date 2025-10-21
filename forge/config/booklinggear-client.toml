@@ -16,5 +16,5 @@
 	#WORLD_JOIN = Every time you join a world/server.
 	#
 	#Allowed Values: NONE, SESSION, WORLD_JOIN
-	Update_Notices = "SESSION"
+	Update_Notices = "NONE"
 
