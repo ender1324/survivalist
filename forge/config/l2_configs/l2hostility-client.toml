@@ -28,4 +28,6 @@ glowingRangeNear = 16
 showUndyingParticles = true
 #Detector Glass outline hostile mobs only
 glassForLevelMobsOnly = true
+#Killer Aura sound effect
+killerAuraSoundEffect = true
 

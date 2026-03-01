@@ -22,5 +22,6 @@
   "autoToggleModItems": [
     "exposure:camera",
     "pointblank:*"
-  ]
+  ],
+  "hiddenLayers": []
 }

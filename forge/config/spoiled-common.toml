@@ -4,7 +4,7 @@
 	#Determines the spoilrate in specific containers [Syntax: tileentity:spoil_rate]
 	#Examples: "minecraft:shulker_box,0" would make shulker boxes not spoil food
 	#"cookingforblockheads:fridge,0.2" would make a cooking for blockheads fridge spoil at 20% of the usual spoilrate
-	containerModifier = ["minecraft:chest,0.7", "minecraft:trapped_chest,0.7", "minecraft:ender_chest,0.7", "netherexp:brazier_chest,0.7", "minecraft:barrel,0.7", "minecraft:shulker_box,0.7", "minecraft:furnace,0.5", "minecraft:smoker,0.5", "pfm:stove_block_entity,0.5", "pfm:kitchen_counter_oven_block_entity,0.5", "farmersdelight:stove,0.5", "ends_delight:end_stove,0.5", "pfm:fridge_block_entity,0.8", "pfm:freezer_block_entity,0.9", "cold_sweat:icebox,0.7"]
+	containerModifier = ["minecraft:chest,0.7", "minecraft:trapped_chest,0.7", "minecraft:ender_chest,0.7", "netherexp:brazier_chest,0.7", "minecraft:barrel,0.7", "minecraft:shulker_box,0.7", "minecraft:furnace,0.5", "minecraft:smoker,0.5", "pfm:stove_block_entity,0.5", "pfm:kitchen_counter_oven_block_entity,0.5", "farmersdelight:stove,0.5", "ends_delight:end_stove,0.5", "pfm:fridge_block_entity,0.1", "pfm:freezer_block_entity,0.4", "cold_sweat:icebox,0.3"]
 	#Defines the default total amount of spoiling updates for each food item 
 	#(For example, a defaultSpoilTime of 40 means any default food item will have 40 total updates before it spoils. 
 	#This can be altered when custom food spoiling is set using a datapack) [default: 30]
