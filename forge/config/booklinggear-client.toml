@@ -1,7 +1,7 @@
 
 ["General Settings"]
 	#Enable or disable configuration screen to edit in live different Eruannie's mod settings.
-	Config_Screen = true
+	Config_Screen = false
 	#Determines which side the banner configuration appears on. This is experimental. There’s no need to modify this value.
 	Mirrored_Banner = true
 	#Select the type of configuration button to display.
@@ -16,7 +16,7 @@
 	#WORLD_JOIN = Every time you join a world/server.
 	#
 	#Allowed Values: NONE, SESSION, WORLD_JOIN
-	Update_Notices = "SESSION"
+	Update_Notices = "NONE"
 	#Pixel offsets applied to the config buttons relative to their default locations.
 	#Positive X moves right, negative X moves left.
 	#Positive Y moves down, negative Y moves up.
