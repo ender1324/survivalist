@@ -20,7 +20,7 @@
 
 	[Mobs."Vanilla Mob Tweaks"]
 		#Witch drinks poison resistance when poisoned
-		WITCH_ADDITIONS_ENABLED = true
+		WITCH_ADDITIONS_ENABLED = false
 		#Frogs and Rain Frogs can be converted into a Warped Toad
 		FROG_TRANSFORM_ENABLED = true
 

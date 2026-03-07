@@ -8,7 +8,7 @@ for (const rockBlock of rockBlocks) {
         if (event.player.getMainHandItem().isEmpty()) {
             event.player.swing();
             event.player.give(event.block.drops[0]);
-            event.block.set(Blocks.AIR);
+            event.block.set('minecraft:air');
         }
     });
 }

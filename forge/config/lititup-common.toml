@@ -47,7 +47,7 @@
 	#Range: 0.0 ~ 1.0
 	Double_Flint_Base_Chance = 0.15
 	#List of items that can ignite furnace blocks. Items only.
-	Furnace_Executor_Item_List = ["minecraft:flint_and_steel", "hardcore_toches:fire_starter", "lititup:sparkling_flint", "lititup:golden_lighter"]
+	Furnace_Executor_Item_List = ["minecraft:flint_and_steel", "hardcore_torches:fire_starter", "lititup:sparkling_flint", "lititup:golden_lighter"]
 	#Blocks that can ignite a furnace when placed below. Format: 'modid:blockid[:true|false]'
 	#The true/false value refers only to the 'lit' state property if present.
 	#

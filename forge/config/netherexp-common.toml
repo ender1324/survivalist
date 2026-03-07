@@ -94,7 +94,7 @@
 	#Mobs will be scared to pathfind through Soul Glass
 	phasmophobic_mobs = true
 	#Hoglins will drop hogham instead of porkchops
-	hoglin_drops_hogham = true
+	hoglin_drops_hogham = false
 	#Wither Skeletons will drop fossil fuel instead of coal
 	wither_skeleton_drops_fossil_fuel = false
 	#Defines 1 in specified chance for how often wisps emerge from ecto soul sand blocks

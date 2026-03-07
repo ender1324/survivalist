@@ -64,7 +64,7 @@
 	[Witches."Thirsty witches"]
 		#Chance for a witch to drink a healing potion when not full health. Defaults to Vanilla
 		#Range: 0.0 ~ 1.0
-		"Healing chance" = 0.10
+		"Healing chance" = 0.1
 		#Below this percentage health, witches will try to drink healing potions.
 		#Range: 0.0 ~ 1.0
 		"Healing threshold" = 0.7
@@ -597,7 +597,7 @@
 		#Chance for a mob to spawn with Ender Pearls in the offhand.
 		#I recommend Mobs Properties Randomness to have more control over mobs equipment.
 		#Range: 0.0 ~ 1.0
-		"Equip ender pearl chance" = 0.10
+		"Equip ender pearl chance" = 0.1
 		#Inaccuracy when throwing the ender pearl.
 		#Range: 1 ~ 16
 		Inaccuracy = 3
@@ -771,7 +771,7 @@
 			#Range: 0.0 ~ 1.0
 			"Easy/Peaceful" = 0.15
 			#Range: 0.0 ~ 1.0
-			Normal = 0.20
+			Normal = 0.2
 			#Range: 0.0 ~ 1.0
 			Hard = 0.25
 
@@ -918,7 +918,7 @@
 		[Creepers."Creeper swell"."Beta strafe"]
 			#Creepers with beta strafing will walk around the target, like the in pre-1.2. This takes precedence over walking fuse.
 			#Range: 0.0 ~ 1.0
-			Chance = 0.20
+			Chance = 0.2
 
 	#Creepers will ignite when they take explosion damage. Only entity types in the enhancedai:creeper/tnt_like tag will be affected by this feature.
 	[Creepers."Tnt like creepers"]
@@ -1036,7 +1036,7 @@
 		"Neutral chance" = 0.25
 		#Animals have this percentage chance to be hostile. Hostile animals are also neutral.
 		#Range: 0.0 ~ 1.0
-		"Hostile chance" = 0.10
+		"Hostile chance" = 0.05
 		#Movement speed multiplier when aggroed.
 		#Range: 0.0 ~ 4.0
 		"Speed modifier" = 1.1
@@ -1051,10 +1051,10 @@
 		"Flee distance near" = 7
 		#Speed multiplier when the animal avoids the player when it's within 'Flee Distance Far' blocks from them.
 		#Range: 0.0 ~ 4.0
-		"Flee speed far" = 1.1
+		"Flee speed far" = 1.2
 		#Speed multiplier when the animal avoids the player and it's within 'Flee Distance Near' blocks from them.
 		#Range: 0.0 ~ 4.0
-		"Flee speed near" = 1.3
+		"Flee speed near" = 1.4
 		#Animals' knockback attribute will be set to this value multiplied by their bounding box size (bigger mobs have higher knockback). 0 disables this and lets you customize knockback per mob with attribute modifiers.
 		#Range: 0.0 ~ 128.0
 		Knockback = 1.4
