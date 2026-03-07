@@ -42,7 +42,7 @@
 	#Enable Piglin Porkchops from Piglins?
 	enablePiglinMeat = true
 	#Enable Piglin Porkchops from Pigling Brutes?
-	enablePiglinBruteMeat = false
+	enablePiglinBruteMeat = true
 	#Enable Bear Meat from Polar Bears?
 	enablePolarBearMeat = true
 	#Enable Sniffer Meat?
